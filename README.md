@@ -71,7 +71,7 @@ streamlit run app.py
 </pre>
 
 
-
+<hr>
 <h2>🧠 How It Works</h2>
 <ol>
     <li>User enters medical details.</li>
